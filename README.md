@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Abena Ayebea Koranteng.
 
-I enjoy learning new things 🤗
+I enjoy learning new things, en route to becoming a software engineer.
 
 <!--
 **Ayebs/Ayebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
